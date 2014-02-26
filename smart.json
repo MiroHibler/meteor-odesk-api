@@ -1,0 +1,9 @@
+{
+	"name"			: "odesk-api",
+	"description"	: "A Meteor wrapper for the oDesk API",
+	"homepage"		: "https://github.com/MiroHibler/meteor-odesk-api",
+	"author"		: "Miroslav Hibler (http://miro.hibler.me)",
+	"version"		: "0.1.0",
+	"git"			: "https://github.com/MiroHibler/meteor-odesk-api.git",
+	"packages"		: {}
+}
